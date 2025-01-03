@@ -1,7 +1,7 @@
 # Git Cheat Sheet
 
 ## State Model
-- ![07bfe4077e4790f14f67829d47845b1e1dbddd68](https://github.com/user-attachments/assets/2169bee1-c517-48ed-9fbd-308130ef6dd6)
+![07bfe4077e4790f14f67829d47845b1e1dbddd68](https://github.com/user-attachments/assets/2169bee1-c517-48ed-9fbd-308130ef6dd6)
 
 ## Getting Started
 - **Initialize a repository**: `git init`
