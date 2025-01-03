@@ -11,6 +11,7 @@ Welcome to the DevOps repository! This repository contains all the materials and
 5. [Resources](#resources)
 6. [Contributing](#contributing)
 7. [License](#license)
+8. [WIL Technical Intern Curriculum 2025 DevOps](#wil-technical-intern-curriculum-2025-devops)
 
 ## Introduction
 
@@ -42,6 +43,11 @@ Follow these best practices to ensure successful DevOps implementation:
 - **Collaborate**: Foster collaboration between development and operations teams.
 - **Monitor and Measure**: Continuously monitor and measure performance to identify areas for improvement.
 - **Continuous Improvement**: Always look for ways to improve processes and workflows.
+
+## WIL Technical Intern Curriculum 2025 DevOps
+
+The `WIL Technical Intern Curriculum 2025 DevOps` document outlines the curriculum for the DevOps internship program for the year 2025. It includes detailed information on the topics covered, learning objectives, and hands-on projects designed to provide practical experience in DevOps practices.
+
 
 ## Resources
 
