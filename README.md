@@ -88,6 +88,12 @@ The `WIL Technical Intern Curriculum 2025 DevOps` document outlines the curricul
 
 ---
 
+## Updates
+- **Day 0 **: 
+  - Completing All the basic Installations. Follow :
+
+---
+
 ## Conclusion
 This curriculum is designed to take you through the essential tools and practices for DevOps and cloud-native application management. By the end of the 15 days, you will be ready to implement DevOps pipelines, containerized applications, and infrastructure automation.
 
