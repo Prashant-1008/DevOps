@@ -53,7 +53,7 @@ The `WIL Technical Intern Curriculum 2025 DevOps` document outlines the curricul
 ## Table of Contents
 
 | **Day** | **Summary** | **Description** |
-|:-------:|:-----------:|:---------------:|
+|:-------:|:-----------:|:---------------|
 | **1** | **Introduction to DevOps** | ● Understand what DevOps is and its importance.<br> ● Learn about the DevOps lifecycle: Plan, Develop, Build, Test, Release, Deploy, Operate, Monitor.<br> ● Research key concepts: CI/CD, Infrastructure as Code (IaC), and Configuration Management. |
 | **2** | **Linux Basics** | ● Familiarize yourself with Linux commands, file permissions, and process management.<br> ● Learn how to use SSH for remote server access.<br> ● Practice basic scripting in Bash. |
 | **3** | **Version Control with Git** | ● Install Git and set up a repository.<br> ● Learn basic Git commands: clone, commit, push, pull, branch, merge.<br> ● Explore Git workflows like feature branching. |
